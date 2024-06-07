@@ -25,8 +25,8 @@
 - [SharePointとMicrosoft Teamsの違いと連携方法をわかりやすく図解](https://notepm.jp/blog/11017)
 - [知っていると得をする！SharepointとTeamsの違い・使い分け方法](https://akmemo.info/sharepoint-teams-differences/)
 
--  **TeamsのデータはSharePoint 又はOneDirveと連係して保存されます。** <sup>参考図書265_150>  
--  連携2<sup>参考図書265_297</sup>
+- **TeamsのデータはSharePoint 又はOneDirveと連係して保存されます。** <sup>参考図書265_150>  
+- 連携2<sup>参考図書265_297</sup>
 
 #### 各コンテンツの保存先。(2022年7月時点)
 
@@ -87,4 +87,3 @@ aーム、グループでの情報共有という同じ用途があるものの�
 
 > 参考図書265_150:「ひと目でわかるMicrosoft 365 ビジネス活用編」の252ページ,日経BP,2022,西岡 真樹他  
 > 参考図書265_297:「Teams仕事術」の214ページ,技術評論社,2022,椎野磨美  
-
